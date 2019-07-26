@@ -1,1 +1,1 @@
-# MPI_SpMV
+# MPI version of sparse matrix vector multiplication
